@@ -5,5 +5,5 @@
 </p>
 </p>
 <p align="center" class="has-mb-6">
-<a href="https://resume.vitan.me">Python Scrapy 实现</a>
+<a href="https://vitan.me">Python Scrapy 实现</a>
 </p>
